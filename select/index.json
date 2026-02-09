@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Mili - TIE HUA FEI / 铁花飞 [Arknights EP]",
+  "base_artist": "Mili",
+  "createdAt": "2026-02-09T13:54:04.472738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Mili",
+      "artist": "lil wayne",
+      "has_synced": false,
+      "path": "select/01_A_Mili_lil_wayne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mili",
+      "artist": "Ian feat. Amtilb & Simiz",
+      "has_synced": true,
+      "path": "select/02_Mili_Ian_feat._Amtilb_&_Simiz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mili",
+      "artist": "Ian",
+      "has_synced": true,
+      "path": "select/03_Mili_Ian.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mili",
+      "artist": "Ian, Amtilb, Simiz",
+      "has_synced": true,
+      "path": "select/04_Mili_Ian,_Amtilb,_Simiz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mili Kk",
+      "artist": "Reincidentes",
+      "has_synced": false,
+      "path": "select/05_Mili_Kk_Reincidentes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mili Moj",
+      "artist": "Severina",
+      "has_synced": true,
+      "path": "select/06_Mili_Moj_Severina.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ankhein Mili",
+      "artist": "Raj Barman",
+      "has_synced": true,
+      "path": "select/07_Ankhein_Mili_Raj_Barman.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ja Tu mīli",
+      "artist": "Ainars Virga",
+      "has_synced": false,
+      "path": "select/08_Ja_Tu_mīli_Ainars_Virga.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soldat Mili",
+      "artist": "Gradur",
+      "has_synced": false,
+      "path": "select/09_Soldat_Mili_Gradur.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Unse Mili Nazar Ke Mere Hosh Ud Gai",
+      "artist": "Lata Mangeshkar",
+      "has_synced": true,
+      "path": "select/10_Unse_Mili_Nazar_Ke_Mere_Hosh_Ud_Gai_Lata_Mangeshkar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unse Mili Nazar Ke Mere Hosh Ud Gai",
+      "artist": "Lata Mangeshkar",
+      "has_synced": true,
+      "path": "select/11_Unse_Mili_Nazar_Ke_Mere_Hosh_Ud_Gai_Lata_Mangeshkar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cast Me a Spell Feat. Mili - Single",
+      "artist": "Promise of wizard",
+      "has_synced": true,
+      "path": "select/12_Cast_Me_a_Spell_Feat._Mili_-_Single_Promise_of_wizard.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Flowerworks Feat. Mili - Single",
+      "artist": "Promise of wizard",
+      "has_synced": true,
+      "path": "select/13_Flowerworks_Feat._Mili_-_Single_Promise_of_wizard.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Past the Stargazing Season (Mili Remix)",
+      "artist": "HΔg",
+      "has_synced": true,
+      "path": "select/14_Past_the_Stargazing_Season_(Mili_Remix)_HΔg.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Skin-Deep Comedy Feat. Mili - Single",
+      "artist": "Promise of wizard",
+      "has_synced": true,
+      "path": "select/15_Skin-Deep_Comedy_Feat._Mili_-_Single_Promise_of_wizard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tumse Nazar Mili",
+      "artist": "Geeta Dutt",
+      "has_synced": false,
+      "path": "select/16_Tumse_Nazar_Mili_Geeta_Dutt.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nazrein Mili Dil Dhadka (From \"Raja\")",
+      "artist": "Alka Yagnik feat. Udit Narayan",
+      "has_synced": true,
+      "path": "select/17_Nazrein_Mili_Dil_Dhadka_(From__Raja_)_Alka_Yagnik_feat._Udit_Narayan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Nazrein Mili Dil Dhadka",
+      "artist": "Alka Yagnik, Udit Narayan",
+      "has_synced": true,
+      "path": "select/18_Nazrein_Mili_Dil_Dhadka_Alka_Yagnik,_Udit_Narayan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TIE HUA FEI",
+      "artist": "Mili & 塞壬唱片-MSR",
+      "has_synced": false,
+      "path": "select/pl_01_TIE_HUA_FEI_Mili_&_塞壬唱片-MSR.txt"
+    }
+  ]
+}
