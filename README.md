@@ -1,0 +1,71 @@
+# Mili – Mili - TIE HUA FEI / 铁花飞 [Arknights EP]
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+A frozen breath
+A calloused hand
+Walking through a peaceful neighborhood
+Isn't it beautiful?
+Such a beautiful
+Such a beautiful vibrancy
+I am alright
+I am content
+Looking through an old kaleidoscope
+Isn't it laughable?
+The pain we held close
+Dissolves into smoke readily
+As I'm finally on the receiving side of
+misfortune
+I can see your reasons
+And your clingy demons
+Like a rotten mandarin
+Inside, we had good intentions
+I may be still unripened
+But I'm not afraid
+在这一刻，我的心平静如水
+没有谁能迫我退悔
+四面楚歌，这颗心无惧无畏
+铁花飞，飘逸不残灰
+千年之后还剩下什么？
+灵魂的重量又怎能取舍
+有共存才有未来可说
+不一定牵着手
+但一定永远向前走
+正确了又能证明什么？
+就算能从过去找出差错
+身世境遇不由人选择
+有理解就足够
+盼日夜细水长流
+Let our memories unite
+Then maybe we'll see a new sight
+Yes we're both right
+I know we're both right
+In the tiny birdcage we divide
+Seeing the world with my own eyes
+And for a minute I was embarrassed by my short
+insight
+All this time I was so focused on myself
+Making sure this strongest strongest woman was
+all they saw
+Right?
+小时候只是服从
+成长过程中开始疑问
+为什么你不再是我印象中那样完美无缺？
+长大后终于理解
+逞强也是一种爱的表现
+呵，原谅你，也原谅我自己
+在这一刻，我的心平静如水
+没有谁能迫我退悔
+四面楚歌，这颗心无惧无畏
+铁花飞，飘逸不残灰
+千年之后还剩下什么？
+灵魂的重量又怎能取舍
+有共存才有未来可说
+从此不再寂寞，因为这间心房已解锁
+正确了又能证明什么？
+就算能从过去找出差错
+身世境遇不由人选择
+有理解就足够
+盼日夜细水长流
+```
